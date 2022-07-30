@@ -18,7 +18,7 @@ This class defines basic elements in a family tree -- family members. The constr
 4. Mother's name
 5. Generation
 
-A valid construction of a FamilyMember object can be:
+Here is a valid construction of a FamilyMember object:
 
     FamilyMember Zeus = new FamilyMember("Zeus", Gender.MALE, "Kronus", "Rhea", 2);
 
