@@ -19,6 +19,7 @@ public class Driver {
 	 */
 	public static ArrayList<FamilyMember> createListOfCharacters() {
 		
+		// Here is an example of creating a list of family members from Greek mythology.
 		int generation = 1;
 		
 		FamilyMember uranus = new FamilyMember("Uranus", Gender.MALE, "", "", generation);
